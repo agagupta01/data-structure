@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.tesco.price.quote.kafka.sslconsumer.KafkaTopicConsumer
+Class-Path: kafka-clients-1.0.1.jar commons-lang3-3.8.1.jar slf4j-simple
+ -1.7.25.jar jackson-databind-2.4.1.jar jackson-core-2.4.1.jar jackson-a
+ nnotations-2.4.1.jar lz4-java-1.4.jar snappy-java-1.1.4.jar slf4j-api-1
+ .7.25.jar
+
